@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&display=swap');
+
+.bg-all {
+    background-color: #111D41;
+}
+
+.bg-red {
+    background-color: #F16170;
+}
+
+.police {
+    font-family:sans-serif;
+}
+
+.carous-img {
+    height: 400px;
+    background-size: cover;
+}
+
+.img-card {
+    height: 300px;
+}
+
+.img-poster {
+    height: 150px;
+}
+
+.img-profil {
+    height: 50px;
+    width: 50px;
+}
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.small-text {
+    font-size:60%;
+}
+
+.middel-text {
+    font-size: 75%;
+}
