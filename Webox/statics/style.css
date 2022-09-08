@@ -10,3 +10,12 @@
 .background-blue-col-2 {
     background-color: #28007C;
 }
+
+.banner-img {
+    height: 100vh;
+    background-size: cover;
+}
+
+.btn:focus {
+    box-shadow: none;
+}
