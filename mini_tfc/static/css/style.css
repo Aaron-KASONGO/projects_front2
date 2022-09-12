@@ -1,8 +1,17 @@
 
 .blue-bg {
-    background-color: #0E1240;
+    background-color: #232946;
+}
+
+.secondary {
+    background-color: #fffffe;
 }
 
 .red-bg {
     background-color: #EB598C;
+}
+
+.img-size {
+    height: 200px;
+    width: 200px;
 }
